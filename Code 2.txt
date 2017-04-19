@@ -1,1 +1,3 @@
-Ganesh Bhagat
+This is code 2 file updated for Branch1
+Commit1
+This change is done on Github itself for file Code 2 .txt
